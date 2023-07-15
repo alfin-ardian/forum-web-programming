@@ -25,17 +25,16 @@ This project is a simple REST API using Laravel, the purpose to fill forum discu
 ## Screenshot Result
 
 -   Get User
-
-![Get User](https://imgur.com/a/5HYj3n6)
+    ![Logo](https://i.ibb.co/LdnxTZt/get-users.png)
 
 -   Register
-    ![Register](https://imgur.com/a/oqbmSLD)
+    ![Logo](https://i.ibb.co/k4PmydY/register-user.png)
 
 -   Login
-    ![Login](https://imgur.com/a/VBhMV5i)
+    ![Logo](https://i.ibb.co/xm6dHnc/login-user.png)
 
 -   Logout
-    ![Logout](https://imgur.com/a/ytFneaa)
+    ![Logo](https://i.ibb.co/qjFY62v/logout.png)
 
 ## Step to run this project
 
