@@ -11,6 +11,16 @@ use App\Models\User;
 
 class AuthController extends Controller
 {
+    // Get all users
+    public function index()
+    {
+        // Get all users
+        $users = User::all();
+
+        // Return response
+        return response()->json(['users' => $users], 200);
+    }
+
     // Register a new user
     public function register(Request $request)
     {
